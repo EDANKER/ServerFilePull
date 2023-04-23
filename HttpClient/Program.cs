@@ -42,8 +42,7 @@ namespace Microsoft
             await output.FlushAsync();
 
             Console.WriteLine("запрос обработан");
-
-            server.Start();
+            
             
         }
     }
