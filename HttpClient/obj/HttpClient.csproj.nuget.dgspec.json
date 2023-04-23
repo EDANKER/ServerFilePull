@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edgar\\Desktop\\HttpClient\\HttpClient\\HttpClient.csproj": {}
+    "C:\\Users\\edgar\\ServerFilePull\\HttpClient\\HttpClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edgar\\Desktop\\HttpClient\\HttpClient\\HttpClient.csproj": {
+    "C:\\Users\\edgar\\ServerFilePull\\HttpClient\\HttpClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\Desktop\\HttpClient\\HttpClient\\HttpClient.csproj",
+        "projectUniqueName": "C:\\Users\\edgar\\ServerFilePull\\HttpClient\\HttpClient.csproj",
         "projectName": "HttpClient",
-        "projectPath": "C:\\Users\\edgar\\Desktop\\HttpClient\\HttpClient\\HttpClient.csproj",
+        "projectPath": "C:\\Users\\edgar\\ServerFilePull\\HttpClient\\HttpClient.csproj",
         "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\Desktop\\HttpClient\\HttpClient\\obj\\",
+        "outputPath": "C:\\Users\\edgar\\ServerFilePull\\HttpClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -43,6 +43,7 @@ namespace Microsoft
 
             Console.WriteLine("запрос обработан");
 
+            server.Start();
             
         }
     }

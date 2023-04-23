@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F/7kkv8QIWSEeqgMKxFykNAFRkzXtoW2piXUnJb3GjOEEvECiBtwM8MEDbfzuqaaKwu8XBstRMzmFRzraSv7Kg==",
+  "dgSpecHash": "7N5gqgG3gPIrTsyY3/CmtI4gQ2eH/RArCOmKCz1TcmLcGA38upJ6QGCrSoRawK0d76DLw9w1jDnFqn6Z3cTHMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edgar\\Desktop\\HttpClient\\HttpClient\\HttpClient.csproj",
+  "projectFilePath": "C:\\Users\\edgar\\ServerFilePull\\HttpClient\\HttpClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
