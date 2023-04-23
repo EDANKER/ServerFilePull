@@ -1,0 +1,15 @@
+C:\Users\edgar\Desktop\HttpClient\HttpClient\obj\Debug\net7.0\HttpClient.csproj.AssemblyReference.cache
+C:\Users\edgar\Desktop\HttpClient\HttpClient\obj\Debug\net7.0\HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\Desktop\HttpClient\HttpClient\obj\Debug\net7.0\HttpClient.AssemblyInfoInputs.cache
+C:\Users\edgar\Desktop\HttpClient\HttpClient\obj\Debug\net7.0\HttpClient.AssemblyInfo.cs
+C:\Users\edgar\Desktop\HttpClient\HttpClient\obj\Debug\net7.0\HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Desktop\HttpClient\HttpClient\bin\Debug\net7.0\HttpClient.exe
+C:\Users\edgar\Desktop\HttpClient\HttpClient\bin\Debug\net7.0\HttpClient.deps.json
+C:\Users\edgar\Desktop\HttpClient\HttpClient\bin\Debug\net7.0\HttpClient.runtimeconfig.json
+C:\Users\edgar\Desktop\HttpClient\HttpClient\bin\Debug\net7.0\HttpClient.dll
+C:\Users\edgar\Desktop\HttpClient\HttpClient\bin\Debug\net7.0\HttpClient.pdb
+C:\Users\edgar\Desktop\HttpClient\HttpClient\obj\Debug\net7.0\HttpClient.dll
+C:\Users\edgar\Desktop\HttpClient\HttpClient\obj\Debug\net7.0\refint\HttpClient.dll
+C:\Users\edgar\Desktop\HttpClient\HttpClient\obj\Debug\net7.0\HttpClient.pdb
+C:\Users\edgar\Desktop\HttpClient\HttpClient\obj\Debug\net7.0\HttpClient.genruntimeconfig.cache
+C:\Users\edgar\Desktop\HttpClient\HttpClient\obj\Debug\net7.0\ref\HttpClient.dll
