@@ -9,12 +9,10 @@ namespace Microsoft
     {
         private static async Task Main(string[] args)
         {
+            HttpListener server = new HttpListener();
+            
             while (true)
             {
-
-
-                HttpListener server = new HttpListener();
-
                 server.Prefixes.Add("http://10.3.8.227:8888/connection/");
                 server.Start();
 
